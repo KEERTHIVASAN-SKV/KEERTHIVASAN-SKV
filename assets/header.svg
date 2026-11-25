@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Keerthivasan S. — Software Developer</title>
+  <desc id="desc">Minimal monochrome profile banner with a blue accent and abstract geometric details.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f6f8fa"/>
+      <stop offset="1" stop-color="#eaeef2"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0969da"/>
+      <stop offset="1" stop-color="#54aeff"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#d8dee4" stroke-width="1" opacity=".55"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="18" fill="url(#grid)"/>
+  <circle cx="1040" cy="120" r="132" fill="none" stroke="#c9d1d9" stroke-width="1.5"/>
+  <circle cx="1040" cy="120" r="94" fill="none" stroke="#c9d1d9" stroke-width="1.5"/>
+  <circle cx="1040" cy="120" r="54" fill="none" stroke="url(#accent)" stroke-width="2.5"/>
+  <path d="M1040 66V174M986 120H1094" stroke="#0969da" stroke-width="1.5" opacity=".5"/>
+  <circle cx="1040" cy="120" r="7" fill="#0969da"/>
+  <rect x="74" y="62" width="5" height="136" rx="2.5" fill="url(#accent)"/>
+  <text x="108" y="112" fill="#1f2328" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="-1">KEERTHIVASAN S.</text>
+  <text x="110" y="151" fill="#57606a" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19" font-weight="600" letter-spacing="4">SOFTWARE DEVELOPER</text>
+  <path d="M110 177H365" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <text x="110" y="207" fill="#57606a" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Full-Stack Development  ·  AI Enthusiast</text>
+</svg>
