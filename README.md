@@ -46,7 +46,7 @@ Exploring AI-powered solutions
 **Primary technologies**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,supabase,mysql,django,fastapi,github,postgres,nodejs&perline=6&theme=light" alt="Primary technology icons: Java, Python, JavaScript, React, Supabase, MySQL, Django, FastAPI, GitHub, PostgreSQL and Node.js" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,supabase,mysql,django,fastapi,github,postgres,nodejs&perline=6&theme=light" alt="Primary technology icons: Java, Python, JavaScript, React, Supabase, MySQL, Django, FastAPI, GitHub, PostgreSQL and Node.js" />
 </p>
 
 **Familiar technologies & tools**
